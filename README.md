@@ -1,7 +1,7 @@
 # Task Manager CLI
 
-[![Demo Video](https://img.shields.io/badge/View-Demo_Video-blue)](https://your-video-url-here.com)
-*(Replace with your actual video URL after upload)*
+[![Demo Video](https://img.shields.io/badge/View-Demo_Video-blue)](https://youtu.be/BOtKb6gUl-s)
+
 
 A command-line task manager with persistent storage, built in Python.
 
